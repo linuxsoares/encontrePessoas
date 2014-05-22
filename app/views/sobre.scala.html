@@ -1,0 +1,31 @@
+@(sistema: String)(versaoDoPlay: String)
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@sistema</title>
+    <link href='@routes.Assets.at("bootstrap/css/bootstrap.min.css")' rel="stylesheet" media="screen" >
+    <link rel="shortcut icon" type="image/png" href='@routes.Assets.at("images/favicon.png")' >
+    <script src='@routes.Assets.at("javascripts/jquery-1.9.0.min.js")' type="text/javascript">
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <ul>
+            <li class="active"><a href="/">HOME</a></li>
+            <h3 class="text-muted">@sistema</h3>
+        </ul>
+    </div>
+    <div class="jumbotron">
+        <p><a class="btn btn-lg btn-success" href="#">powered by Play Framework @versaoDoPlay</a></p>
+    </div>
+    <div class="jumbotron">
+        <p>A ideia do projeto <strong>ENCONTRE PESSOAS</strong> é ajudar familiares de pessoas desaparecidas</p>
+        <p>a encontrar seu familiar que esta desaparecidas...</p>
+        <p>Esperamos com isso facilitar o encontro de pessoas de todo o <strong>BRASIL</strong>.</p>
+    </div>
+
+</div>
+</body>
+</html>
