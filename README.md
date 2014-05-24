@@ -23,4 +23,14 @@ Quem tiver interessado em ajudar faça um fork e vamos dar vida ao projeto!!!
 
 Aproveitando, quem se interessar ira aprender a utilizar o Framework Play que vem sendo muito utilizado...
 
-Até!
+Coloquei abaixo email para que eu possa adicionar ao TRELLO para podermos organizar as tarefas,
+coloque também o Skype ou mesmo Hangout para fazermos alguma reunião para decidir algumas coisas se precisar.
+
+Nome: Gilmar Soares
+E-mail: linux.soares@gmail.com
+Skype: gil.play.guitar
+Hangout: linux.soares@gmail.com
+
+Adicionem abaixo da mesma forma para facilitar :)
+
+Abraços!
