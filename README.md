@@ -33,7 +33,7 @@ Hangout: linux.soares@gmail.com
 
 Mome: Rodrigo Amora
 E-mail: rodrigo.amora.freitas@gmail.com
-Skype: rodrigo.amora
+Skype: rodrigo.amora 
 
 Adicionem abaixo da mesma forma para facilitar :)
 
