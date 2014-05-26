@@ -2,7 +2,8 @@ logs
 project/project
 project/target
 target
-tmp
+timp
+.DS_Store
 .history
 dist
 /.idea
