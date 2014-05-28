@@ -35,6 +35,10 @@ Mome: Rodrigo Amora
 E-mail: rodrigo.amora.freitas@gmail.com
 Skype: rodrigo.amora 
 
+Nome: Álvaro Pereira Gomes
+E-mail: alvarofederal@gmail.com
+Skype: alvaropereira.gomes
+
 Adicionem abaixo da mesma forma para facilitar :)
 
 Abraços!
