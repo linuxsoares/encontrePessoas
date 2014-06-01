@@ -25,5 +25,5 @@ public class Desaparecidos extends Model {
     public String olhos;
     public String cabelos;
     public Date dataCadastro;
-    public Date dataAtualização;
+    public Date dataAtualizacao;
 }
