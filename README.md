@@ -1,4 +1,3 @@
-================
 ENCONTRE PESSOAS
 ================
 
@@ -42,3 +41,12 @@ Skype: alvaropereira.gomes
 Adicionem abaixo da mesma forma para facilitar :)
 
 Abraços!
+
+
+
+===================
+License
+===================
+
+The project is licensed under GPL 3. See [LICENSE](https://raw.githubusercontent.com/brunoborges/fx2048/master/LICENSE)
+file for the full license.
