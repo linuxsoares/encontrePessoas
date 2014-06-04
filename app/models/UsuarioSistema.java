@@ -10,7 +10,7 @@ import javax.persistence.Id;
  * Created by gilmar on 31/05/14.
  */
 
-@Entity
+
 public class UsuarioSistema extends Model {
 
     @Id @GeneratedValue
