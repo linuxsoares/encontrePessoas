@@ -2,6 +2,7 @@ package models;
 
 import play.db.ebean.Model;
 
+import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import java.util.Date;
 
@@ -10,7 +11,7 @@ import java.util.Date;
  */
 public class Desaparecidos extends Model {
 
-    @Id
+    @Id @GeneratedValue
     public long id;
 
     public String nome;

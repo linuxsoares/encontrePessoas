@@ -1,0 +1,32 @@
+@(formCadastroDesaparecidos: Form[Desaparecidos])
+@import helper._
+
+@main("Cadastrar Pessoas Desaparecidas"){
+        <link href='@routes.Assets.at("bootstrap/css/bootstrap.min.css")' rel="stylesheet" media="screen" >
+        <link rel="shortcut icon" type="image/png" href='@routes.Assets.at("images/favicon.png")' >
+        <script src='@routes.Assets.at("javascripts/jquery-1.9.0.min.js")' type="text/javascript">
+        </script>
+        <div class="container">
+            <div class="header">
+                <ul>
+                    <li class="active"><a href="/">HOME</a></li>
+                </ul>
+            </div>
+        </div>
+        <form action="/cadastro/desaparecidas" method="post">
+            @inputText(formCadastroDesaparecidos("nome"), '_label -> "Nome")
+            @inputText(formCadastroDesaparecidos("sexo"), '_label -> "Sexo")
+            @inputText(formCadastroDesaparecidos("idadeQuandoDesapareceu"), '_label -> "Idade Quando Desapareceu")
+            @inputText(formCadastroDesaparecidos("idadeAtual"), '_label -> "Idade Atual")
+            @inputText(formCadastroDesaparecidos("problemaMental"), '_label -> "Problema Mental")
+            @inputText(formCadastroDesaparecidos("tipoFisico"), '_label -> "Tipo Fisico")
+            @inputText(formCadastroDesaparecidos("corDaPele"), '_label -> "Cor Da Pele")
+            @inputText(formCadastroDesaparecidos("peso"), '_label -> "Peso")
+            @inputText(formCadastroDesaparecidos("altura"), '_label -> "Altura")
+            @inputText(formCadastroDesaparecidos("olhos"), '_label -> "Olhos")
+            @inputText(formCadastroDesaparecidos("cabelos"), '_label -> "Cabelos")
+            @inputText(formCadastroDesaparecidos("dataCadastro"), '_label -> "Data Cadastro")
+            @inputText(formCadastroDesaparecidos("dataAtualizacao"), '_label -> "Data Atualizacao")
+            <input type="submit" value="Criar">
+        </form>
+}
