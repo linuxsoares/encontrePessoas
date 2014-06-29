@@ -38,6 +38,9 @@ Nome: Álvaro Pereira Gomes
 E-mail: alvarofederal@gmail.com
 Skype: alvaropereira.gomes
 
+Nome: Daniel Medeiros de Assis
+E-mail: daniel.medeiros.assis@gmail.com
+
 Adicionem abaixo da mesma forma para facilitar :)
 
 Abraços!
