@@ -41,6 +41,10 @@ Skype: alvaropereira.gomes
 Nome: Daniel Medeiros de Assis
 E-mail: daniel.medeiros.assis@gmail.com
 
+Nome: Cristian Oliveira da Rosa
+E-mail: contato@cristianoliveira.com.br 
+Skype: cristian_or
+
 Adicionem abaixo da mesma forma para facilitar :)
 
 Abraços!
